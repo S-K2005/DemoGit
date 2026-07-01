@@ -12,9 +12,11 @@
             <br />
             <br />
             <br />
-            <asp:Button ID="Button1" runat="server" Text="Greeting" />
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Greeting" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button2" runat="server" Text="Button" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button3" runat="server" Text="Button" />
             <br />
             <br />
         </div>
