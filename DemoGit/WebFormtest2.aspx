@@ -18,3 +18,7 @@
     </form>
 </body>
 </html>
+
+<%--git config --global user.name ""
+
+//git config --global user.email "gmail.com"--%>
